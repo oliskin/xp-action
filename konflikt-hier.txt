@@ -1,4 +1,3 @@
 Git kann tolle Sachen.
 --- Diese Zeile wurde nicht geändert, oder doch? --- KONFLIKTALARM™!!
-dieser Teil soll reverted werden.
 Aber man muss es üben.
