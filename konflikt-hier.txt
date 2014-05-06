@@ -1,3 +1,4 @@
 Git kann tolle Sachen.
 --- Diese Zeile wurde nicht geändert, oder doch? --- KONFLIKTALARM™!!
+<>masteränderung<>
 Aber man muss es üben.
